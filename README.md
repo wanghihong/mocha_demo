@@ -1,5 +1,5 @@
 mocha unit test demo
 
-1.nmp install
+1.npm install
 
-2.nmp run test
+2.npm run test
